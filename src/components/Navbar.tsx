@@ -35,7 +35,7 @@ const routeList: RouteProps[] = [
     label: "Unsung Heros",
   },
   {
-    href: "blogs.buildingrealdevelopers.tech",
+    href: "https://blogs.buildingrealdevelopers.tech",
     label: "Blogs",
   },
   // {
