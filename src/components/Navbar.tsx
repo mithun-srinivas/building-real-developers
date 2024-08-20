@@ -23,20 +23,20 @@ interface RouteProps {
 
 const routeList: RouteProps[] = [
   {
-    href: "../static/new.html",
+    href: "https://news.buildingrealdevelopers.tech/",
     label: "Daily Tech Updates",
   },
   {
-    href: "#testimonials",
+    href: "https://jobs.buildingrealdevelopers.tech/",
     label: "Job Tips",
   },
   {
-    href: "#newsletter",
+    href: "https://heros.buildingrealdevelopers.tech/",
     label: "Unsung Heros",
   },
   {
     href: "#faq",
-    label: "Community Chat",
+    label: "Blogs",
   },
   // {
   //   href: "#about",
