@@ -111,7 +111,9 @@ export const HeroCards = () => {
         </CardHeader>
 
         <CardContent>
+        <a href="https://nas.io/mithun-brd/home" target="_blank">
           <Button className="w-full">Join Real Developers Community</Button>
+          </a>
         </CardContent>
 
         <hr className="w-4/5 m-auto mb-4" />
